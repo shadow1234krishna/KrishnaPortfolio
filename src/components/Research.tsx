@@ -77,7 +77,7 @@ const Research = () => {
   className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-300"
 >
   <Download size={16} />
-  <span className="text-sm">Download Paper</span>
+  <span className="text-sm">Download Paper </span>
 </a>
 
                   </div>
