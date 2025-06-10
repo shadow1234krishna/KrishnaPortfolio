@@ -2,6 +2,9 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/', // or '/KrishnaPortfolio/' if deploying under a sub-path
+  base: '/',
   plugins: [react()],
+  build: {
+    outDir: 'dist'  // this is default, but make sure it's not changed
+  }
 });
