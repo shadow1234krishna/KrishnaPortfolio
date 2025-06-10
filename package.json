@@ -1,9 +1,8 @@
 {
-  "name": "krishna-portfolio",
+  "name": "vite-react-typescript-starter",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
-  "homepage": "https://krishnakumarsah0.com.np",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,8 +14,7 @@
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "recharts": "^2.6.2"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
@@ -28,9 +26,11 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
     "gh-pages": "^5.0.0",
+    "globals": "^15.9.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
+    "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
   }
 }
