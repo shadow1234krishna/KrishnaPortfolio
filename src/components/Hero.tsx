@@ -33,9 +33,7 @@ const Hero = () => {
           </h2>
           
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Research-oriented engineer with expertise in building microservices-based systems,
-            real-time streaming platforms, and AI-driven applications using DevOps and cloud
-            practices.
+          Research-oriented Software & DevOps Engineer with expertise in cloud-native applications, microservices, distributed systems, and AI-driven solutions. Passionate about leveraging DevOps, automation, and modern software engineering practices to build scalable, reliable, and impactful technologies.
           </p>
           
           {/* Contact Info */}
