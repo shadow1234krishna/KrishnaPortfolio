@@ -33,7 +33,7 @@ const Hero = () => {
           </h2>
           
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-          Research-oriented Software & DevOps Engineer with expertise in cloud-native applications, microservices, distributed systems, and AI-driven solutions. Passionate about leveraging DevOps, automation, and modern software engineering practices to build scalable, reliable, and impactful technologies.
+          Software & DevOps Engineer specializing in backend development, cloud infrastructure, CI/CD automation, and scalable system design. Experienced in building secure, reliable, and high-performance applications using modern development practices, containerization, and cloud technologies. Passionate about solving complex engineering challenges and delivering efficient, production-ready solutions.
           </p>
           
           {/* Contact Info */}
